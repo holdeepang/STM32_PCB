@@ -10,3 +10,4 @@
 - [STM32F030](https://www.st.com/en/evaluation-tools/nucleo-f030r8.html)
 - [STM32F3DISCOVERY](https://www.st.com/en/evaluation-tools/stm32f3discovery.html)
 - [STM32F103](https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html)
+- [STM32F429I](https://www.st.com/en/evaluation-tools/32f429idiscovery.html)
