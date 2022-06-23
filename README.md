@@ -17,3 +17,9 @@
 - [STM + RTC + OLED](https://how2electronics.com/stm32-ds3231-real-time-clock-oled/)
 - [internal RTC](https://controllerstech.com/internal-rtc-in-stm32/#:~:text=Most%20of%20the%20STM32%20devices,access%20internal%20RTC%20in%20STM32.)
 - [RTC setup in STM32](https://embedded-lab.com/blog/stm32s-internal-rtc/)
+
+### PCB Design
+- [Step by step example](https://www.powerelectronicsnews.com/step-by-step-example-for-practical-pcb-design-power-supply-design-tutorial-section-3-3/)
+- [Altium design](https://www.altium.com/documentation/altium-designer/tutorial-complete-design-walkthrough)
+- [PCB basics](https://learn.sparkfun.com/tutorials/pcb-basics/all)
+- [How to design PCB layout](https://www.circuitbasics.com/make-custom-pcb/)
