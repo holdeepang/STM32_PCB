@@ -11,3 +11,9 @@
 - [STM32F3DISCOVERY](https://www.st.com/en/evaluation-tools/stm32f3discovery.html)
 - [STM32F103](https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html)
 - [STM32F429I](https://www.st.com/en/evaluation-tools/32f429idiscovery.html)
+
+### STM32 Moduels
+- [RTC with STM](https://controllerstech.com/ds3231-rtc-module-with-stm32/)
+- [STM + RTC + OLED](https://how2electronics.com/stm32-ds3231-real-time-clock-oled/)
+- [internal RTC](https://controllerstech.com/internal-rtc-in-stm32/#:~:text=Most%20of%20the%20STM32%20devices,access%20internal%20RTC%20in%20STM32.)
+- [RTC setup in STM32](https://embedded-lab.com/blog/stm32s-internal-rtc/)
