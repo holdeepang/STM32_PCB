@@ -1,3 +1,6 @@
+### Documentation
+- [Zephyr Project](https://docs.zephyrproject.org/2.6.0/boards/arm/nucleo_f303k8/doc/index.html)
+
 ### STM32 Learning
 - [STM32L476RG Learning](https://github.com/holdeepang/STM32L476RG_LEARNING)
 - [STM32F103C8T6 Learning Project](https://github.com/holdeepang/STM32F103C8T6-Learning_Projects)
