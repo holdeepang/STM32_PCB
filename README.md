@@ -27,6 +27,7 @@
 - [STM + RTC + OLED](https://how2electronics.com/stm32-ds3231-real-time-clock-oled/)
 - [internal RTC](https://controllerstech.com/internal-rtc-in-stm32/#:~:text=Most%20of%20the%20STM32%20devices,access%20internal%20RTC%20in%20STM32.)
 - [RTC setup in STM32](https://embedded-lab.com/blog/stm32s-internal-rtc/)
+- [Internal RTC Example](https://mevihub.com/stm32-realtime-clock-example/)
 - [Using relay](https://www.stm32duino.com/viewtopic.php?t=1285)
 - [ULN2003 Transistor](https://www.engineersgarage.com/driving-relays-with-stm32-microcontroller/)
 
